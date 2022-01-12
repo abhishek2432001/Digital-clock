@@ -1,1 +1,1 @@
-# STop watch
+# Digital clock
